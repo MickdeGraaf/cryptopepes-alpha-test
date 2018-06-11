@@ -4,14 +4,15 @@
 
 ### Affected parts
 
-[] - Backend API: search/lookups
-[] - Frontend: Visual
-[] - Frontend: interactions
-[] - Smartcontract: CPEP erc271
-[] - Smartcontract: Cozy auction
-[] - Smartcontract: Sale auction
-[] - Smartcontracts - miscellaneous
-[] - Miscellaneous
+- [x] *example checked item*
+- [ ] Backend API: search/lookups
+- [ ] Frontend: Visual
+- [ ] Frontend: interactions
+- [ ] Smartcontract: CPEP erc271
+- [ ] Smartcontract: Cozy auction
+- [ ] Smartcontract: Sale auction
+- [ ] Smartcontracts - miscellaneous
+- [ ] Miscellaneous
 
 ### Accounts used
 
@@ -26,9 +27,9 @@ Test receiver: 0x5678REPLACEME
 
 > Check the boxes that apply
 
-[] - Logged in?
-[] - Recently switched accounts?
-[] - Do you use multiple accounts at the same time?
+- [ ] Logged in?
+- [ ] Recently switched accounts?
+- [ ] Do you use multiple accounts at the same time?
 
 > Answer briefly, if relevant
 
@@ -45,5 +46,5 @@ Metamask, mist, etc.
 
 ### Data
 
-> Note, if possible, see if you can collect data such as browser web page log.
+> Note, if possible, see if you can collect data such as browser log.
 
